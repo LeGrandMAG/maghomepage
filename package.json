@@ -2,7 +2,7 @@
   "name": "maghomepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LeGrandMAG.github.io/maghomepage",
+  "homepage": "https://legrandmag.github.io/maghomepage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
